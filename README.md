@@ -1,2 +1,2 @@
-# baralla_brillant
-Videojoc creat amb intel·ligència artificial
+# Baralla brillant
+Baralla brillant és un videojoc creat amb intel·ligència artificial.
